@@ -3,6 +3,7 @@
 *.pbxuser
 *.perspective
 *.perspectivev3
+xcuserdata
 *.pyc
 *~.nib/
 build/*
